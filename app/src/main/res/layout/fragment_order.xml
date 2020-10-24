@@ -30,6 +30,7 @@
                         android:id="@+id/imageView7"
                         android:layout_width="match_parent"
                         android:layout_height="240dp"
+                        android:layout_marginTop="16dp"
                         android:background="@color/yellow1"
                         app:srcCompat="@drawable/unnamed__1_" />
 
@@ -50,6 +51,7 @@
                         android:id="@+id/imageView5"
                         android:layout_width="match_parent"
                         android:layout_height="243dp"
+                        android:layout_marginTop="16dp"
                         android:background="@color/yellow1"
                         app:srcCompat="@drawable/unnamed" />
 
@@ -70,6 +72,7 @@
                         android:id="@+id/imageView4"
                         android:layout_width="match_parent"
                         android:layout_height="272dp"
+                        android:layout_marginTop="16dp"
                         android:background="@color/yellow1"
                         app:srcCompat="@drawable/happyfresh_thai_green_curry_with_chicken_940x700" />
 
@@ -88,6 +91,7 @@
                         android:id="@+id/imageView3"
                         android:layout_width="match_parent"
                         android:layout_height="191dp"
+                        android:layout_marginTop="16dp"
                         android:background="@color/yellow1"
                         app:srcCompat="@drawable/hc_cuisine_14s" />
 
@@ -108,6 +112,7 @@
                         android:id="@+id/imageView2"
                         android:layout_width="match_parent"
                         android:layout_height="284dp"
+                        android:layout_marginTop="16dp"
                         android:background="@color/yellow1"
                         app:srcCompat="@drawable/tomyam" />
 
@@ -128,6 +133,10 @@
                         android:id="@+id/imageView"
                         android:layout_width="match_parent"
                         android:layout_height="240dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginRight="16dp"
                         android:background="@color/yellow1"
                         app:srcCompat="@drawable/shutterstock_280684463_1" />
 
